@@ -10,8 +10,10 @@ The main purpose of this project is to create an ideal model for a car insurance
 
 1. Clone the repository: Begin by cloning this repository to your local machine using the following command:
 
+
+
 ```bash
-git clone <repository_url>
+git clone https://github.com/jh991205/Insurance-Prediction
 ```
 
 
